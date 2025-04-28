@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Toronto Traffic Collision Analysis 🚗💥
 
 This project analyzes vehicle collisions in Toronto using open public data.  
